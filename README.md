@@ -26,6 +26,7 @@ quizzler/
 ├── screenshots/
 │   ├── screenshot1.png
 │   └── screenshot2.png
+│   └── screenshot3.png
 ├── .gitignore
 ├── data.py
 ├── LICENSE
