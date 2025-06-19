@@ -56,7 +56,7 @@ quizzler/
    ```bash
    git clone https://github.com/sreejith-as/quizzler.git
    cd quizzler
-````
+   ````
 
 2. **Install dependencies**:
 
@@ -121,9 +121,9 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 👤 Author
 
-**Sreejith A S**
-📍 Kerala, India
-🔗 [LinkedIn](www.linkedin.com/in/sreejith-a-sreenivasan)
+**Sreejith A S**  
+📍 Kerala, India  
+🔗 [LinkedIn](www.linkedin.com/in/sreejith-a-sreenivasan)  
 📧 [sreejithsreenivasan.06@gmail.com](mailto:sreejithsreenivasan.06@gmail.com)
 
 ---
